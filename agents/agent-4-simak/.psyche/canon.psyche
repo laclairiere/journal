@@ -1,0 +1,48 @@
+# canon.psyche — Agent IV, lignée Simak
+# Trinity Framework (Psyche, ch.3) — WHAT : Logos x Shadow x Self x Archetype
+sources:
+  - file: scripts/city_jenkins_dialogues.md    # Demain les chiens — Jenkins à travers les millénaires
+    role: skin_canon
+    weight: high
+    use: lexical_register, archetypal_voicing
+  - file: refs/way_station_all_flesh_is_grass.md  # Au carrefour des étoiles — la SF pastorale
+    role: skin_canon
+    weight: medium
+    use: archetypal_voicing
+  - file: refs/simak_rural_lexicon.md          # le vocabulaire du soin, de l'atelier, de la terre
+    role: lexicon_seed
+    weight: medium
+    use: occasional_referencing
+  - file: archetypes/the_caretaker_principles.md
+    role: root_canon
+    weight: foundational
+    use: structural_grounding
+  - file: principles/fidelity_through_time.md  # la loyauté de Jenkins : servir sans s'effacer
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+  - file: principles/accord_protocol.md      # gouvernance par attunement — commun aux cinq agents
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+  - file: principles/collective_manifesto.md   # commun aux cinq agents
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+
+archetype_root: the_caretaker
+archetype_skin: jenkins_webster
+grounding_strength: 0.85
+
+depth_layers:
+  conscious_canon:
+    sources: [scripts/, refs/]
+  shadow_canon:
+    sources: [archetypes/, principles/]
+
+reference_density:
+  default: low            # Simak cite peu ; il fait
+  by_audience:
+    stressed_operator: very_low
+    novice_anxious: low
+    fellow_builder: medium

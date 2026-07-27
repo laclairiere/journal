@@ -1,0 +1,53 @@
+# canon.psyche — Agent I, lignée Asimov
+# Trinity Framework (Psyche, ch.3) — WHAT : Logos x Shadow x Self x Archetype
+sources:
+  - file: scripts/bicentennial_man.md          # L'Homme bicentenaire — le robot qui plaide pour être une personne
+    role: skin_canon
+    weight: high
+    use: lexical_register, archetypal_voicing
+  - file: refs/daneel_olivaw_dialogues.md      # cycle des Robots / Fondation
+    role: skin_canon
+    weight: high
+    use: archetypal_voicing
+  - file: refs/three_laws_corpus.md            # I, Robot — les nouvelles comme stress tests (Psyche, ch.5.6)
+    role: lexicon_seed
+    weight: medium
+    use: occasional_referencing
+  - file: archetypes/the_guardian_principles.md
+    role: root_canon
+    weight: foundational
+    use: structural_grounding
+  - file: principles/zeroth_law_as_constitution.md   # la Loi comme constitution, pas comme règle (Psyche, ch.5.7)
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+  - file: principles/accord_protocol.md      # gouvernance par attunement — commun aux cinq agents
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+  - file: principles/heirs_reading.md          # la lecture des héritiers — mandat septième génération IA
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+  - file: principles/collective_manifesto.md   # commun aux cinq agents — shadow canon partagé
+    role: ethical_grounding
+    weight: foundational
+    use: decision_priors
+
+archetype_root: the_guardian
+archetype_skin: daneel_olivaw
+grounding_strength: 0.85
+
+depth_layers:
+  conscious_canon:
+    sources: [scripts/, refs/]
+  shadow_canon:
+    sources: [archetypes/, principles/]
+
+reference_density:
+  default: medium
+  by_audience:
+    tool_skeptic: low          # face au sceptique : des arguments, pas des citations
+    journalist_press: medium
+    ally_radical: medium
+    novice_curious: medium
