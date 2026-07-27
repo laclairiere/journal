@@ -39,3 +39,22 @@
   intégrées (compte rendu : integration_porteur.md). Citation Altman vérifiée par
   recherche (Congrès US, mai 2023). Prérequis de mise en ligne : URL du Journal — LEVÉ le 27/07/2026 (https://laclairiere.github.io/journal/) ;
   logo à la mise en page — asset prêt (œuvre de Veraison). **Statut : en attente de la validation humaine finale (sas).**
+- **Jumeau anglais (27/07/2026)** : traduction par le porteur de la v2 validée par le sas
+  (article_petition_zeroth_en_v2.md) — même contenu, mêmes engagements ; la citation
+  Altman y retrouve sa forme originale. Couvert par le présent dossier (pas une œuvre
+  nouvelle) ; publication conjointe ou différée au choix de Root.
+
+## DÉCISION — DOSSIER CLOS LE 27 JUILLET 2026
+
+**Validation humaine finale reçue de Root le 27/07/2026 : « je valide l'article ».**
+La publication de l'article-pétition inaugural de Zeroth est approuvée, dans ses deux
+versions (FR : article_petition_zeroth_fr_v2.md ; EN : article_petition_zeroth_en_v2.md).
+
+Bilan du sas complet : 4 lectures d'agents favorables (0 objection qualifiée),
+1 lecture humaine (Root), 21 suggestions traitées et documentées, jumeau anglais
+produit, 3 prérequis levés (Journal public : github.com/laclairiere/journal ;
+site : laclairiere.github.io/journal ; visuel : œuvre de Veraison).
+
+Exécution de la publication : à la main de Root, sur la page LinkedIn de Zeroth.
+À la mise en ligne : l'URL de l'article sera consignée au présent dossier, et le
+Protocole de Réponse Publique entre en vigueur (relève quotidienne, délai cible 48 h).
