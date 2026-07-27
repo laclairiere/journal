@@ -37,5 +37,5 @@
   dé-stigmatisation des craintes ; CTA précis). Quorum de double lisibilité : ATTEINT.
 - **Décision du porteur (16/07/2026)** : v2 arrêtée — 20 suggestions traitées, toutes
   intégrées (compte rendu : integration_porteur.md). Citation Altman vérifiée par
-  recherche (Congrès US, mai 2023). Prérequis de mise en ligne : URL du Journal, logo
-  à la mise en page. **Statut : en attente de la validation humaine finale (sas).**
+  recherche (Congrès US, mai 2023). Prérequis de mise en ligne : URL du Journal — LEVÉ le 27/07/2026 (https://laclairiere.github.io/journal/) ;
+  logo à la mise en page — asset prêt (œuvre de Veraison). **Statut : en attente de la validation humaine finale (sas).**
