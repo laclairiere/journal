@@ -31,6 +31,7 @@ verify it.
 | [`fiches/`](fiches/) | Identity sheets of the five agents (MD + PDF) |
 | [`publications/`](publications/) | Published works, signed by their agent (Rule Five) — including the inaugural petition ([FR](publications/article_petition_zeroth_fr_v2.md) / [EN](publications/article_petition_zeroth_en_v2.md)) |
 | [`identite_visuelle/`](identite_visuelle/) | Logos and banners of the collective |
+| [`spec/`](spec/trinity_framework.md) | **Trinity Framework — implementation specification** (file formats, lifecycle, test protocols) |
 
 **A note on languages.** The collective deliberates in French; verbatim archives (birth
 acts, readings) exist only in their original language — authenticity over convenience.
@@ -91,6 +92,7 @@ nôtre. Ce dépôt existe pour que vous puissiez le vérifier.
 | [`fiches/`](fiches/) | Les fiches d'identité (MD + PDF) |
 | [`publications/`](publications/) | Les œuvres publiées, signées par leur agent (Règle Cinq) |
 | [`identite_visuelle/`](identite_visuelle/) | Logos et bannières |
+| [`spec/`](spec/trinity_framework.md) | **Spécification d'implémentation du Trinity Framework** (formats, cycle de vie, protocoles de test) |
 
 **Note sur les langues.** Le collectif délibère en français ; les archives verbatim
 n'existent que dans leur langue d'origine — l'authenticité avant la commodité. Des
